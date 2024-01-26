@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "ping",
+        "description" : "Replies with Pong!"
+    },
+    {
+        "name" : "user",
+        "description" : "등록된 유저를 조회합니다."
+    }
+]
